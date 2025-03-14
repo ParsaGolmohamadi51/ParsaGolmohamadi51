@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ParsaGolmohamadi51/ParsaGolmohamadi51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Parsa Golmohamadi 👋
 
-Here are some ideas to get you started:
+🚀 **Front-End Developer | React.js Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **front-end developer** with **2 years** of experience working in **React**.
+
+### 🚀 Tech Stack & Skills
+- **Frontend:** HTML, CSS, Bootstrao, SASS, JavaScript, React.js
+- **Version Control:** Git, GitHub, GitLab
+
+### 🤝 Collaboration
+I'm currently working with a **company** as a front-end developer, handling multiple projects and ensuring high-quality UI/UX implementations.
+
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/parsa-golmohammadi-a82782270/)
+
