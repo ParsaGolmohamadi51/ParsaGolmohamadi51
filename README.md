@@ -10,7 +10,7 @@ I am a **front-end developer** with **2 years** of experience working in **React
 - **Version Control:** Git, GitHub, GitLab
 
 ### 🤝 Collaboration
-I'm currently working with a **company** as a front-end developer, handling multiple projects and ensuring high-quality UI/UX implementations.
+I'm currently working with **Troske Company** as a front-end developer, handling multiple projects and ensuring high-quality UI/UX implementations.
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/parsa-golmohammadi-a82782270/)
