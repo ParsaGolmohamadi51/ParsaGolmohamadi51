@@ -14,4 +14,6 @@ I'm currently working with **Troske Company** as a front-end developer, handling
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/parsa-golmohammadi-a82782270/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?logo=telegram)]([https://t.me/your-telegram](https://t.me/ParsaGolmohammadi))
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?logo=instagram)](https://www.instagram.com/i._parsa)
 
