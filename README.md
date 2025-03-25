@@ -2,8 +2,6 @@
 <h3 align="center">Front-End Developer | React Developer</h3>
 
 
-🔭 I’m currently working on **Medical appointment**
-
 📫 How to reach me **parsa.jobs.gol@gmail.com**
 
 
