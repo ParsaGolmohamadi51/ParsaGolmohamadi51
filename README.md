@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parsa</h1>
-<h3 align="center">Front-End Developer | React Developer</h3>
+<h3 align="center">Front-End Developer | Next.JS Developer</h3>
 
 ## 🧐 About Me
 I am a 21-year-old student based in Sanandaj with three years of experience in front-end development. Passionate about exploring emerging technologies, I am dedicated to refining my skills in building modern, high-performance, and user-friendly web applications. My expertise lies in developing optimized user interfaces with clean, maintainable code while continuously staying updated with industry trends and best practices. I thrive in collaborative environments and am always eager to take on new challenges that push the boundaries of web development.
